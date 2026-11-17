@@ -245,7 +245,7 @@ button, input, select, textarea {
 .chat-input input:focus { border-color: var(--primary); }
 
 /* === Alert === */
-.alert { padding: .75rem 1rem; border-radius: var(--radius); margin-bottom .75rem; font-size: .9rem; }
+.alert { padding: .75rem 1rem; border-radius: var(--radius); margin-bottom: .75rem; font-size: .9rem; }
 .alert-error { background: #fef2f2; color: var(--danger); border: 1px solid #fecaca; }
 
 /* === Responsive === */
